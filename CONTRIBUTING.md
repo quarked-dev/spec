@@ -17,8 +17,8 @@ This document aims to assist you in how the Quarked ecosystem functions and how 
 
 ### Writing a Proposal
 
-To write a proposal, copy the template from `proposals/P-0.md` into your new file (see section below). Then, change the status to `Suggested`, and add your name/GitHub username to the authors list.
+To write a proposal, copy the template from `proposals/P0.md` into your new file (see section below). Then, change the status to `Suggested`, and add your name/GitHub username to the authors list.
 
 ### Submitting a Proposal
 
-To submit a proposal, you will fork and add a new file in the `proposals` directory. The file should be named `P-NUMBER.md`. The number is the next increment after the last one. You should also update the date in the Proposal to the current date.
+To submit a proposal, you will fork and add a new file in the `proposals` directory. The file should be named `P[NUMBER].md`. The number is the next increment after the last one. You should also update the date in the Proposal to the current date.
