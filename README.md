@@ -59,7 +59,3 @@ This project is licensed under the MIT License described in the [LICENSE](LICENS
 
 - [Discussions](https://github.com/quarked-dev/docs/discussions)
 - [Issues](https://github.com/quarked-dev/docs/issues)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8cc9,100:2b2d42&height=140&section=footer"/>
-</p>
