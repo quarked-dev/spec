@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/241063703" alt="Polly Logo" width="200" height="200"/>
+  <img src="https://avatars.githubusercontent.com/u/241063703" alt="Quarked Logo" width="200" height="200"/>
 </p>
 
 <h1 align="center">Quarked</h1>
